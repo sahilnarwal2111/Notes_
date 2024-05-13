@@ -1,0 +1,5 @@
+Need to buy a domain 
+Attach a SSL Certificate from AWS to it
+https://www.udemy.com/course/decodingdevops/learn/lecture/31946492#questions
+
+Do it before Section 10
